@@ -6,7 +6,7 @@
 #pragma once
 
 enum gender { MAN, WOMAN }; 
-typedef enum gender EGender; // ±¸Á¶Ã¼ genderÀÇ ÀÌ¸§À» EGender·Î Á¤ÀÇ
+typedef enum gender EGender; // êµ¬ì¡°ì²´ genderì˜ ì´ë¦„ì„ EGenderë¡œ ì •ì˜
 
 struct contact { 
 	char name[24];
@@ -15,10 +15,9 @@ struct contact {
 	int year;
 };
 
-typedef struct contact Contact; // ±¸Á¶Ã¼ contactÀÇ ÀÌ¸§À» Contact·Î Á¤ÀÇ
+typedef struct contact Contact; // êµ¬ì¡°ì²´ contactì˜ ì´ë¦„ì„ Contactë¡œ ì •ì˜
 
-extern struct contact con;      
-extern struct contact* ptr;
+
 
 int isEqualContact(Contact a, Contact b);
 void printContact(Contact ct);
