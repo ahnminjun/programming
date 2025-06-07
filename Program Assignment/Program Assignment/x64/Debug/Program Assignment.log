@@ -1,0 +1,7 @@
+﻿  Program Assignment.3.c
+C:\Users\brier\source\repos\Program Assignment\Program Assignment\Program Assignment.3.c(30,8): warning C4477: 'scanf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\brier\source\repos\Program Assignment\Program Assignment\Program Assignment.3.c(32,8): warning C4477: 'scanf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\brier\source\repos\Program Assignment\Program Assignment\Program Assignment.3.c(34,11): error C2231: '.ID': 왼쪽 피연산자가 'struct'을(를) 가리킵니다. '->'를 사용하십시오.
+C:\Users\brier\source\repos\Program Assignment\Program Assignment\Program Assignment.3.c(34,23): error C2231: '.PW': 왼쪽 피연산자가 'struct'을(를) 가리킵니다. '->'를 사용하십시오.
+C:\Users\brier\source\repos\Program Assignment\Program Assignment\Program Assignment.3.c(37,2): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+C:\Users\brier\source\repos\Program Assignment\Program Assignment\Program Assignment.3.c(41,2): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
