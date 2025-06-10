@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\User\source\repos\chap09\chap09\main.c(43,10): warning C4098: 'text': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\User\source\repos\chap09\chap09\main.c(64,10): warning C4098: 'test': 'void' 함수에서 값을 반환하고 있습니다.
+  chap09.vcxproj -> C:\Users\User\source\repos\chap09\Debug\chap09.exe
